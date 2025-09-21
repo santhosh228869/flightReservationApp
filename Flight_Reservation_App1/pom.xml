@@ -14,7 +14,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Flight_Reservation_App1</name>
 	<description>A Flight Reservation App</description>
-	<properties>
+    <packaging>war</packaging>
+    <properties>
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
